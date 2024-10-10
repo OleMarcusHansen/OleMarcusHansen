@@ -7,7 +7,7 @@
 
 ## Student Projects
 - [VR-AI-Experience](https://github.com/OleMarcusHansen/VR-AI-Experience) - A prototype made along our bachelor thesis using Unity
-- [RecipeRiot](https://github.com/OleMarcusHansen/GGJ-MakeGPTLaugh) - An app utilizing OpenAIs ChatCompletions to generate recipes
+- [RecipeRiot](https://github.com/OleMarcusHansen/RecipeRiot) - An app utilizing OpenAIs ChatCompletions to generate recipes
 - [Jellygame](https://github.com/OleMarcusHansen/jellygame) - A game engine framework made with Python
 - [SoftwareEngineering](https://github.com/OleMarcusHansen/SoftwareEngineeringAndTesting) - A project made with Java for a course in Software Engineering and Testing
-- [.Net](https://github.com/OleMarcusHansen/GGJ-MakeGPTLaugh) - A project made for a course in .NET
+- [.Net](https://github.com/OleMarcusHansen/dotNet) - A project made for a course in .NET
