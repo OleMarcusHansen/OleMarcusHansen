@@ -10,4 +10,4 @@
 - [RecipeRiot](https://github.com/OleMarcusHansen/RecipeRiot) - An app utilizing OpenAIs ChatCompletions to generate recipes
 - [Jellygame](https://github.com/OleMarcusHansen/jellygame) - A game engine framework made with Python
 - [SoftwareEngineering](https://github.com/OleMarcusHansen/SoftwareEngineeringAndTesting) - A project made with Java for a course in Software Engineering and Testing
-- [.Net](https://github.com/OleMarcusHansen/TriviaDotNet) - A project made for a course in .NET
+- [TriviaDotNet](https://github.com/OleMarcusHansen/TriviaDotNet) - A project made for a course in .NET
