@@ -3,6 +3,7 @@
 <table>
   <tr>
     <th colspan="2">Game Dev Projects</th>
+  </tr>
   <tr>
     <td>
       A prototyping project in Unity featuring a hollow/inverted globe
@@ -56,10 +57,10 @@
     <td><img src="Images/VRAI.png" alt="VRAI"></td>
   </tr>
   <tr>
-    <td><img src="Images/RecipeRiot.png" alt="RecipeRiot"></td>
+    <td align="center"><img src="Images/RecipeRiot.png" alt="RecipeRiot" height=300></td>
     <td>
       An app utilizing OpenAIs ChatCompletions to generate recipes
-      <br>https://github.com/OleMarcusHansen/GGJ-GPTChat
+      <br>https://github.com/OleMarcusHansen/RecipeRiot
     </td>
   </tr>
   <tr>
