@@ -7,7 +7,10 @@
   <tr>
     <td>
       A prototyping project in Unity featuring a hollow/inverted globe
-      <br>https://github.com/OleMarcusHansen/HollowEarth_Prototyping
+      <ul>
+        <li><a href="https://github.com/OleMarcusHansen/HollowEarth_Prototyping">GitHub</a></li>
+        <li><a href="https://lavatsj-games.itch.io/firmament-prototype">Itch.io</a></li>
+      </ul>
     </td>
     <td><img src="Images/Firmament.png" alt="HollowGlobe"></td>
   </tr>
@@ -15,13 +18,18 @@
     <td><img src="Images/MakeGPTLaugh.png" alt="MakeGPTLaugh"></td>
     <td>
       A small game made with Godot for Global Game Jam 2024
-      <br>https://github.com/OleMarcusHansen/GGJ-GPTChat
+      <ul>
+        <li><a href="https://github.com/OleMarcusHansen/GGJ-GPTChat">GitHub</a></li>
+        <li><a href="https://globalgamejam.org/games/2024/make-gpt-laugh-5">GlobalGameJam</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td>
       A VR-game demo made with Unity
-      <br>https://lavatsj-games.itch.io/mineclearer-vr-demo
+      <ul>
+        <li><a href="https://lavatsj-games.itch.io/mineclearer-vr-demo">Itch.io</a></li>
+      </ul>
     </td>
     <td><img src="Images/MineclearerVR.png" alt="MineclearerVR"></td>
   </tr>
@@ -29,13 +37,17 @@
     <td><img src="Images/SpookyFirmament.png" alt="SpookyFirmament"></td>
     <td>
       A small spooky/horror game made with Unity in a hollow/inverted globe
-      <br>https://lavatsj-games.itch.io/spooky-firmament-collect-my-pages
+      <ul>
+        <li><a href="https://lavatsj-games.itch.io/spooky-firmament-collect-my-pages">Itch.io</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td>
       Three spooky/horror games made with Unity
-      <br>https://lavatsj-games.itch.io/spooky-maze-collection
+      <ul>
+        <li><a href="https://lavatsj-games.itch.io/spooky-maze-collection">Itch.io</a></li>
+      </ul>
     </td>
     <td><img src="Images/SpookyMaze.png" alt="SpookyMaze"></td>
   </tr>
@@ -43,7 +55,10 @@
     <td><img src="Images/77thTheGame.png" alt="77thTheGame"></td>
     <td>
       A game made with Unreal Engine 5
-      <br>https://store.steampowered.com/app/2619110/77th_The_Game/
+      <ul>
+        <li><a href="https://store.steampowered.com/app/2619110/77th_The_Game/">Steam</a></li>
+        <li><a href="https://lavatsj-games.itch.io/77th-the-game">Itch.io</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -52,7 +67,9 @@
   <tr>
     <td>
       A prototype made along our bachelor thesis using Unity
-      <br>https://youtu.be/rg9UVIDEnQE
+      <ul>
+        <li><a href="https://youtu.be/rg9UVIDEnQE">Youtube</a></li>
+      </ul>
     </td>
     <td><img src="Images/VRAI.png" alt="VRAI"></td>
   </tr>
@@ -60,13 +77,17 @@
     <td align="center"><img src="Images/RecipeRiot.png" alt="RecipeRiot" height=300></td>
     <td>
       An app utilizing OpenAIs ChatCompletions to generate recipes
-      <br>https://github.com/OleMarcusHansen/RecipeRiot
+      <ul>
+        <li><a href="https://github.com/OleMarcusHansen/RecipeRiot">GitHub</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td>
       A 2D game engine framework made with Python
-      <br>https://github.com/OleMarcusHansen/jellygame
+      <ul>
+        <li><a href="https://github.com/OleMarcusHansen/jellygame">GitHub</a></li>
+      </ul>
     </td>
     <td><img src="Images/Jellygame.png" alt="Jellygame"></td>
   </tr>
@@ -74,13 +95,17 @@
     <td><img src="Images/CarEx.png" alt="CarEx"></td>
     <td>
       A project made with Java for a course in Software Engineering and Testing
-      <br>https://github.com/OleMarcusHansen/SoftwareEngineeringAndTesting
+      <ul>
+        <li><a href="https://github.com/OleMarcusHansen/SoftwareEngineeringAndTesting">GitHub</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td>
       A project made for a course in .NET
-      <br>https://github.com/OleMarcusHansen/TriviaDotNet
+      <ul>
+        <li><a href="https://github.com/OleMarcusHansen/TriviaDotNet">GitHub</a></li>
+      </ul>
     </td>
     <td><img src="Images/TriviaDotNet.png" alt="TriviaDotNet"></td>
   </tr>
