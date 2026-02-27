@@ -1,9 +1,9 @@
 # Ole Marcus Løve Hansen
 
 <table>
-  <tr>
+  <!--<tr>
     <th colspan="2"><h2>Game Dev Projects</h2></th>
-  </tr>
+  </tr>-->
   <tr>
     <td>
       <h3>Firmament Prototype</h3>
@@ -59,7 +59,7 @@
   <tr>
     <td><img src="Images/77thTheGame.png" alt="77thTheGame"></td>
     <td>
-      <h3>77th The Game</h3>
+      <h3>77th: The Game</h3>
       A game made with Unreal Engine 5
       <ul>
         <li><a href="https://store.steampowered.com/app/2619110/77th_The_Game/">Steam</a></li>
@@ -67,9 +67,9 @@
       </ul>
     </td>
   </tr>
-  <tr>
+  <!--<tr>
     <th colspan="2"><h2>Student Projects</h2></th>
-  <tr>
+  <tr>-->
   <tr>
     <td>
       <h3>VR + AI = True?</h3>
