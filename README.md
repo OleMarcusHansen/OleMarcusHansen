@@ -7,7 +7,7 @@
   <tr>
     <td>
       <h3>Firmament Prototype</h3>
-      A prototyping project in Unity featuring a hollow/inverted globe
+      A prototyping project in Unity featuring a hollow globe. The world uses a fibonacci-sphere approximation to create a grid-based environment, with multiple layers of 3D perlin noise to create randomized terrain. Objects such as trees and rocks are placed using a combination of 3D perlin noise, latitude, and altitude. There is a gravitational pull away from the world center, and more local gravitation towards the centre sun and moon. A player can walk around the world and interact with objects. A LOD system is in place to decrease quality of and despawn far objects, and only load terrain collision near the player.
       <ul>
         <li><a href="https://github.com/OleMarcusHansen/HollowEarth_Prototyping">GitHub</a></li>
         <li><a href="https://lavatsj-games.itch.io/firmament-prototype">Itch.io</a></li>
@@ -19,7 +19,7 @@
     <td><img src="Images/MakeGPTLaugh.png" alt="MakeGPTLaugh"></td>
     <td>
       <h3>Make GPT Laugh</h3>
-      A small game made with Godot for Global Game Jam 2024
+      A small game made with Godot for Global Game Jam 2024 using OpenAIs ChatCompletions. In a (not so) distant future, AIs such as ChatGPT has taken over the world, and has enslaved all humans to perform tasks for them. Play as a human given the task of making GPT laugh, being provided only a small set of random words to string together as you please. If GPT does not find your joke funny enough, you will be promptly replaced. 
       <ul>
         <li><a href="https://github.com/OleMarcusHansen/GGJ-GPTChat">GitHub</a></li>
         <li><a href="https://globalgamejam.org/games/2024/make-gpt-laugh-5">GlobalGameJam</a></li>
@@ -29,7 +29,7 @@
   <tr>
     <td>
       <h3>Mineclearer VR</h3>
-      A VR game demo made with Unity for the Meta Quest 2-3
+      A VR game demo made with Unity for the Meta Quest 2-3. A standard minesweeper board is generated, with the ability to move around it in VR. Tiles can be either stepped on or poked with a stick, and suspected mines can be marked with a flag. 
       <ul>
         <li><a href="https://lavatsj-games.itch.io/mineclearer-vr-demo">Itch.io</a></li>
       </ul>
@@ -40,7 +40,7 @@
     <td><img src="Images/SpookyFirmament.png" alt="SpookyFirmament"></td>
     <td>
       <h3>Spooky Firmament</h3>
-      A small spooky/horror game made with Unity in a hollow/inverted globe for halloween 2024
+      A small spooky/horror game made with Unity in a hollow/inverted globe for halloween 2024.
       <ul>
         <li><a href="https://lavatsj-games.itch.io/spooky-firmament-collect-my-pages">Itch.io</a></li>
       </ul>
@@ -49,7 +49,7 @@
   <tr>
     <td>
       <h3>Spooky Maze games</h3>
-      Three spooky/horror games made with Unity
+      Three spooky/horror games made with Unity.
       <ul>
         <li><a href="https://lavatsj-games.itch.io/spooky-maze-collection">Itch.io</a></li>
       </ul>
@@ -60,7 +60,7 @@
     <td><img src="Images/77thTheGame.png" alt="77thTheGame"></td>
     <td>
       <h3>77th: The Game</h3>
-      A game made with Unreal Engine 5
+      A puzzle game made with Unreal Engine 5.
       <ul>
         <li><a href="https://store.steampowered.com/app/2619110/77th_The_Game/">Steam</a></li>
         <li><a href="https://lavatsj-games.itch.io/77th-the-game">Itch.io</a></li>
