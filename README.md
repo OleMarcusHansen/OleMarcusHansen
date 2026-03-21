@@ -73,7 +73,7 @@
   <tr>
     <td>
       <h3>VR + AI = True?</h3>
-      A prototype made along our bachelor thesis using Unity
+      A prototype made along our bachelor thesis using Unity and various generative AI services. The project explores how generative AI can be used to increase user experience through personalisation. This is achieved by generating content during runtime based on previous user interactions. 
       <ul>
         <li><a href="https://youtu.be/rg9UVIDEnQE">Youtube</a></li>
         <li><a href="https://www.hiof.no/iio/om/expo/prosjekter-2024/utvidet-virkelighet/b24itk49/">HIOF</a></li>
