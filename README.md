@@ -19,7 +19,7 @@
     <td><img src="Images/MakeGPTLaugh.png" alt="MakeGPTLaugh"></td>
     <td>
       <h3>Make GPT Laugh</h3>
-      A small game made with Godot for Global Game Jam 2024 using OpenAIs ChatCompletions. In a (not so) distant future, AIs such as ChatGPT has taken over the world, and has enslaved all humans to perform tasks for them. Play as a human given the task of making GPT laugh, being provided only a small set of random words to string together as you please. If GPT does not find your joke funny enough, you will be promptly replaced. 
+      A small game made with Godot for Global Game Jam 2024 updated to use a local LLM (Qwen by default), previously using OpenAIs ChatCompletions API. In a (not so) distant future, AIs such as ChatGPT has taken over the world, and has enslaved all humans to perform tasks for them. Play as a human given the task of making GPT laugh, being provided only a small set of random words to string together as you please. If GPT does not find your joke funny enough, you will be promptly replaced. 
       <ul>
         <li><a href="https://github.com/OleMarcusHansen/GGJ-GPTChat">GitHub</a></li>
         <li><a href="https://globalgamejam.org/games/2024/make-gpt-laugh-5">GlobalGameJam</a></li>
@@ -32,6 +32,7 @@
       A VR game demo made with Unity for the Meta Quest 2-3. A standard minesweeper board is generated, with the ability to move around it in VR. Tiles can be either stepped on or poked with a stick, and suspected mines can be marked with a flag. 
       <ul>
         <li><a href="https://lavatsj-games.itch.io/mineclearer-vr-demo">Itch.io</a></li>
+        <li><a href="https://store.steampowered.com/app/2928930/Mineclearer_VR">Steam</a></li>
       </ul>
     </td>
     <td><img src="Images/MineclearerVR.png" alt="MineclearerVR"></td>
@@ -40,16 +41,17 @@
     <td><img src="Images/SpookyFirmament.png" alt="SpookyFirmament"></td>
     <td>
       <h3>Spooky Firmament</h3>
-      A small spooky/horror game made with Unity in a hollow/inverted globe for halloween 2024.
+      A small "collect my pages" horror game made with Unity in a hollow globe for halloween 2024. Based on the my inverted globe prototyping project, i added a simple monster that chases the player as they run around the world trying to collect all the pages. 
       <ul>
         <li><a href="https://lavatsj-games.itch.io/spooky-firmament-collect-my-pages">Itch.io</a></li>
+        <li><a href="https://github.com/OleMarcusHansen/HollowEarth_Prototyping">GitHub</a></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
       <h3>Spooky Maze games</h3>
-      Three spooky/horror games made with Unity.
+      Three horror games made with Unity, each made within a single month. 
       <ul>
         <li><a href="https://lavatsj-games.itch.io/spooky-maze-collection">Itch.io</a></li>
       </ul>
@@ -60,7 +62,7 @@
     <td><img src="Images/77thTheGame.png" alt="77thTheGame"></td>
     <td>
       <h3>77th: The Game</h3>
-      A puzzle game made with Unreal Engine 5.
+      A puzzle game made with Unreal Engine 5. Starting as a project to make myself familiar with Unreal Engine, the game features a small variety of maps and features, and a mix of imported and self-made assets. After about six months of development, the game was posted for free on Itch.io, and was later after about 2 months of further work posted for free on Steam. 
       <ul>
         <li><a href="https://store.steampowered.com/app/2619110/77th_The_Game/">Steam</a></li>
         <li><a href="https://lavatsj-games.itch.io/77th-the-game">Itch.io</a></li>
@@ -73,7 +75,7 @@
   <tr>
     <td>
       <h3>VR + AI = True?</h3>
-      A prototype made along our bachelor thesis using Unity and various generative AI services. The project explores how generative AI can be used to increase user experience through personalisation. This is achieved by generating content during runtime based on previous user interactions. 
+      A prototype made along our bachelor thesis using Unity and various generative AI services. The project explores how generative AI can be used to increase user experience through personalisation. This is achieved by generating content during runtime based on previous user interactions. The project had a focus on exploring new features of personalisation that would be hard to replicate without generative AI, as opposed to simply replacing human made assets. 
       <ul>
         <li><a href="https://youtu.be/rg9UVIDEnQE">Youtube</a></li>
         <li><a href="https://www.hiof.no/iio/om/expo/prosjekter-2024/utvidet-virkelighet/b24itk49/">HIOF</a></li>
@@ -85,7 +87,7 @@
     <td align="center"><img src="Images/RecipeRiot.png" alt="RecipeRiot" height=300></td>
     <td>
       <h3>RecipeRiot</h3>
-      An app utilizing OpenAIs ChatCompletions to generate recipes
+      An app utilizing OpenAI's APIs and a Firebase database to generate and store recipes for a course in mobile programming. The user can input and save the ingredients they own, select the ingredients they would like to use, and have a recipe generated. Each recipe includes a generated description, an image, step-by-step instructions, and nutritional content. 
       <ul>
         <li><a href="https://github.com/OleMarcusHansen/RecipeRiot">GitHub</a></li>
       </ul>
