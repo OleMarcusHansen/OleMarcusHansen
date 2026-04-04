@@ -84,7 +84,7 @@
     <td><img src="Images/VRAI.png" alt="VRAI"></td>
   </tr>
   <tr>
-    <td align="center"><img src="Images/RecipeRiot.png" alt="RecipeRiot" height=300></td>
+    <td align="center"><img src="Images/RecipeRiot.png" alt="RecipeRiot" height=400></td>
     <td>
       <h3>RecipeRiot</h3>
       An app utilizing OpenAI's APIs and a Firebase database to generate and store recipes for a course in mobile programming. The user can input and save the ingredients they own, select the ingredients they would like to use, and have a recipe generated. Each recipe includes a generated description, an image, step-by-step instructions, and nutritional content. 
