@@ -51,7 +51,7 @@
   <tr>
     <td>
       <h3>Spooky Maze games</h3>
-      Three horror games made with Unity, each made within a single month. 
+      Three horror games made with Unity, each made within a single month. These started as a challenge for myself to fully create and publish a small spooky game for Halloween, to get out of the comfort of only working in the starting phase of projects and never finishing them. The first game therefore includes some downloaded assets, while the later two includes mostly self made assets like most of my other projects. 
       <ul>
         <li><a href="https://lavatsj-games.itch.io/spooky-maze-collection">Itch.io</a></li>
       </ul>
@@ -96,7 +96,7 @@
   <tr>
     <td>
       <h3>Jellygame Engine</h3>
-      A 2D game engine framework made with Python
+      A 2D game engine framework made with Python as a student project for a course in frameworks. Featuring tile-based rendering, sprites, text, input-handling and audio. The tile-based system allows for a grid of tiles to be rendered. Each tile can have assigned attributes, and has a slot for a gameobject (called a Jelly) that can be placed and rendered on top of the tile. A Jelly can have assigned attributes, has a slot to hold another Jelly on top, and can be moved around to different tiles on the grid. As the course was rather process oriented and this was our first time designing a framework, the resulting game engine is not a tool we would recommend to use in its current state. Following a Scenario Driven Design process, we learnt alot and had a lot of fun working on this project. 
       <ul>
         <li><a href="https://github.com/OleMarcusHansen/jellygame">GitHub</a></li>
       </ul>
@@ -107,7 +107,7 @@
     <td><img src="Images/CarEx.png" alt="CarEx"></td>
     <td>
       <h3>CarEx</h3>
-      A project made with Java for a course in Software Engineering and Testing
+      A project made with Java for a course in Software Engineering and Testing. It is a demo program for peer-to-peer car rental, using Swing for the GUI and JSON to save data locally. 
       <ul>
         <li><a href="https://github.com/OleMarcusHansen/SoftwareEngineeringAndTesting">GitHub</a></li>
       </ul>
@@ -116,7 +116,7 @@
   <tr>
     <td>
       <h3>Quizzy</h3>
-      A project made for a course in .NET
+      A project made for a course in .NET. It is a trivia quiz website, including a bunch of microservices for question retrieval, user accounts, account data, and notifications. 
       <ul>
         <li><a href="https://github.com/OleMarcusHansen/TriviaDotNet">GitHub</a></li>
       </ul>
