@@ -4,6 +4,16 @@
   <!--<tr>
     <th colspan="2"><h2>Game Dev Projects</h2></th>
   </tr>-->
+   <tr>
+    <td><img src="Images/VIRT.png" alt="The office layout of the VR incident response serious game"></td>
+    <td>
+      <h3>VR Incident Response Training</h3>
+      An incident response training serious game in VR made along my master's thesis. Through experiencing a cyberattack incident and following an incident response plan, the player should learn the steps involved in an incident response plan, as well as example activities within each step. It features a series of game mechanics through implemented performable tasks and stressors to support educational value, engagement, and motivation. 
+      <ul>
+        <li><a href="https://github.com/OleMarcusHansen/VRIR">GitHub</a></li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td>
       <h3>Firmament Prototype</h3>
@@ -13,10 +23,10 @@
         <li><a href="https://lavatsj-games.itch.io/firmament-prototype">Itch.io</a></li>
       </ul>
     </td>
-    <td><img src="Images/Firmament.png" alt="HollowGlobe"></td>
+    <td><img src="Images/Firmament.png" alt="A hollow globe"></td>
   </tr>
   <tr>
-    <td><img src="Images/MakeGPTLaugh.png" alt="MakeGPTLaugh"></td>
+    <td><img src="Images/MakeGPTLaugh.png" alt="Make GPT Laugh"></td>
     <td>
       <h3>Make GPT Laugh</h3>
       A small game made with Godot for Global Game Jam 2024 updated to use a local LLM (Qwen by default), previously using OpenAIs ChatCompletions API. In a (not so) distant future, AIs such as ChatGPT has taken over the world, and has enslaved all humans to perform tasks for them. Play as a human given the task of making GPT laugh, being provided only a small set of random words to string together as you please. If GPT does not find your joke funny enough, you will be promptly replaced. 
@@ -38,7 +48,7 @@
     <td><img src="Images/MineclearerVR.png" alt="MineclearerVR"></td>
   </tr>
   <tr>
-    <td><img src="Images/SpookyFirmament.png" alt="SpookyFirmament"></td>
+    <td><img src="Images/SpookyFirmament.png" alt="Spooky Firmament"></td>
     <td>
       <h3>Spooky Firmament</h3>
       A small "collect my pages" horror game made with Unity in a hollow globe for halloween 2024. Based on the my inverted globe prototyping project, i added a simple monster that chases the player as they run around the world trying to collect all the pages. 
@@ -56,10 +66,10 @@
         <li><a href="https://lavatsj-games.itch.io/spooky-maze-collection">Itch.io</a></li>
       </ul>
     </td>
-    <td><img src="Images/SpookyMaze.png" alt="SpookyMaze"></td>
+    <td><img src="Images/SpookyMaze.png" alt="The entrance of an ominous spooky maze"></td>
   </tr>
   <tr>
-    <td><img src="Images/77thTheGame.png" alt="77thTheGame"></td>
+    <td><img src="Images/77thTheGame.png" alt="77th The Game"></td>
     <td>
       <h3>77th: The Game</h3>
       A puzzle game made with Unreal Engine 5. Starting as a project to make myself familiar with Unreal Engine, the game features a small variety of maps and features, and a mix of imported and self-made assets. After about six months of development, the game was posted for free on Itch.io, and was later after about 2 months of further work posted for free on Steam. 
@@ -75,16 +85,16 @@
   <tr>
     <td>
       <h3>VR + AI = True?</h3>
-      A prototype made along our bachelor thesis using Unity and various generative AI services. The project explores how generative AI can be used to increase user experience through personalisation. This is achieved by generating content during runtime based on previous user interactions. The project had a focus on exploring new features of personalisation that would be hard to replicate without generative AI, as opposed to simply replacing human made assets. 
+      A prototype made along our bachelor's thesis using Unity and various generative AI services. The project explores how generative AI can be used to increase user experience through personalisation. This is achieved by generating content during runtime based on previous user interactions. The project had a focus on exploring new features of personalisation that would be hard to replicate without generative AI, as opposed to simply replacing human made assets. 
       <ul>
         <li><a href="https://youtu.be/rg9UVIDEnQE">Youtube</a></li>
         <li><a href="https://www.hiof.no/iio/om/expo/prosjekter-2024/utvidet-virkelighet/b24itk49/">HIOF</a></li>
       </ul>
     </td>
-    <td><img src="Images/VRAI.png" alt="VRAI"></td>
+    <td><img src="Images/VRAI.png" alt="Holding a banana in a student apartment in VR"></td>
   </tr>
   <tr>
-    <td align="center"><img src="Images/RecipeRiot.png" alt="RecipeRiot" height=400></td>
+    <td align="center"><img src="Images/RecipeRiot.png" alt="RecipeRiot app home page" height=400></td>
     <td>
       <h3>RecipeRiot</h3>
       An app utilizing OpenAI's APIs and a Firebase database to generate and store recipes for a course in mobile programming. The user can input and save the ingredients they own, select the ingredients they would like to use, and have a recipe generated. Each recipe includes a generated description, an image, step-by-step instructions, and nutritional content. 
@@ -104,7 +114,7 @@
     <td><img src="Images/Jellygame.png" alt="Jellygame"></td>
   </tr>
   <tr>
-    <td><img src="Images/CarEx.png" alt="CarEx"></td>
+    <td><img src="Images/CarEx.png" alt="CarEx logo"></td>
     <td>
       <h3>CarEx</h3>
       A project made with Java for a course in Software Engineering and Testing. It is a demo program for peer-to-peer car rental, using Swing for the GUI and JSON to save data locally. 
@@ -121,7 +131,7 @@
         <li><a href="https://github.com/OleMarcusHansen/TriviaDotNet">GitHub</a></li>
       </ul>
     </td>
-    <td><img src="Images/TriviaDotNet.png" alt="TriviaDotNet"></td>
+    <td><img src="Images/TriviaDotNet.png" alt="Quizzy quiz page"></td>
   </tr>
 </table>
 
